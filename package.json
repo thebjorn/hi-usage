@@ -1,0 +1,26 @@
+{
+  "name": "hi-usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "web-dev-server --node-resolve --watch --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebjorn/hi-usage.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebjorn/hi-usage/issues"
+  },
+  "homepage": "https://github.com/thebjorn/hi-usage#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.1"
+  },
+  "dependencies": {
+    "hi-bjorn": "^1.0.0"
+  }
+}
